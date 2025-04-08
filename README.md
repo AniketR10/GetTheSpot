@@ -12,3 +12,5 @@ Isolate sunspots by generating a binary mask.
 3. To run the aniket_rawat.py file open the terminal and write : `python aniket_rawat.py`
 
 ## Final Results 
+![Limb Detection](Figure_1.png)
+![Sunspots Mask](Figure_2.png)
